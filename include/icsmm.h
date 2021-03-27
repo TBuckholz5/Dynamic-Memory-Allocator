@@ -1,12 +1,3 @@
-/**
- * === DO NOT MODIFY THIS FILE ===
- * If you need some other prototypes or constants in a header, please put them in
- * helpers.h
- *
- * When we grade, we will be replacing this file with our own copy.
- * You have been warned.
- * === DO NOT MODIFY THIS FILE ===
- */
 #ifndef ICSMM_H
 #define ICSMM_H
 #include <stdbool.h>
